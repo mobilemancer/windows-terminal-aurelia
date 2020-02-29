@@ -14,7 +14,7 @@
 
 2. Copy profiles.json (or rename it) to save it, in case you want to revert the changes.
 
-3. Copy everything in from the profiles folder in this repository into to your LocalState folder
+3. Copy everything in from the profile folder in this repository into to your LocalState folder
 
 ## Fonts
 
@@ -23,4 +23,3 @@ The theme is using Cascadia Code.
 Information on how to download Cascadia Code can be found here: <https://github.com/microsoft/cascadia-code>
 
  If you like to use another font, just change the fontFace property in profiles.json.
- 

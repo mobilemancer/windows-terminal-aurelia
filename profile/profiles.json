@@ -70,6 +70,23 @@
             "fontFace": "Cascadia Code",
             "startingDirectory": "c:/",
             "experimental.retroTerminalEffect": true
+        },
+        {
+            "guid": "{78b4b215-5722-447b-8b7e-093f96493df2}",
+            "hidden": false,
+            "name": "Git Bash",
+            "commandline": "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
+            "tabTitle": "Bash",
+            "icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
+            "backgroundImage": "ms-appdata:///local/au-os-L.png",
+            "backgroundImageAlignment": "bottomRight",
+            "backgroundImageStretchMode": "none",
+            "colorScheme": "Aurelia",
+            "useAcrylic": true,
+            "acrylicOpacity": 0.85,
+            "fontFace": "Cascadia Code",
+            "startingDirectory": "c:/",
+            "experimental.retroTerminalEffect": true
         }
     ],
     // Add custom color schemes to this array

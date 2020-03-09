@@ -26,4 +26,4 @@ Information on how to download Cascadia Code can be found here: <https://github.
  
  ## Image to large!
  
- There's a smaller image t ouse if the default one feels too large. Just edit the background image property and substitute "au-os-L.png" for "au-os-M.png".
+ There's a smaller image to use if the default one feels too large. Just edit the background image property and substitute "au-os-L.png" for "au-os-M.png".

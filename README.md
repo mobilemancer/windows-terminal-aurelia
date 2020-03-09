@@ -1,4 +1,4 @@
-# Aurelia theme for Windows Terminal
+# Aurelia Retro - a Windows Terminal theme
 
 ![alt text][logo]
 
@@ -23,3 +23,7 @@ The theme is using Cascadia Code.
 Information on how to download Cascadia Code can be found here: <https://github.com/microsoft/cascadia-code>
 
  If you like to use another font, just change the fontFace property in profiles.json.
+ 
+ ## Image to large!
+ 
+ There's a smaller image t ouse if the default one feels too large. Just edit the background image property and substitute "au-os-L.png" for "au-os-M.png".

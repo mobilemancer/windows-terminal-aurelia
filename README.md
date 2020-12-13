@@ -27,3 +27,17 @@ Information on how to download Cascadia Code can be found here: <https://github.
  ## Image to large!
  
  There's a smaller image to use if the default one feels too large. Just edit the background image property and substitute "au-os-L.png" for "au-os-M.png".
+
+ ## Matching Oh my Posh theme
+
+ I made a matching theme for Oh my Posh 3. It looks like the following:
+
+![alt text][img1]
+
+[img1]: https://raw.githubusercontent.com/mobilemancer/windows-terminal-aurelia/master/purple-man-retro.jpg "With Retro Terminal Effect"
+
+![alt text][img2]
+
+[img2]: https://raw.githubusercontent.com/mobilemancer/windows-terminal-aurelia/master/purple-man.jpg "Without Retro Terminal Effect"
+
+To use it, install Oh my Posh 3, then copy the theme file, purple-man.json from the posh-theme folder, then edit your PowerShell profile and set the theme there.

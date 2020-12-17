@@ -1,0 +1,166 @@
+{
+  "final_space": true,
+  "console_title": true,
+  "console_title_style": "",
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "horizontal_offset": 0,
+      "vertical_offset": 0,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "properties": {
+            "prefix": "\u003c#FF23FF\u003e╭[\u003c/\u003e",
+            "text": ""
+          }
+        },
+
+        {
+          "type": "os",
+          "style": "powerline",
+          "powerline_symbol": "\uE0bc",
+          "foreground": "#FFFFFF",
+          "background": "#7F00FF",
+          "properties": {
+            "postfix": " "
+          }
+        },
+        {
+          "type": "session",
+          "style": "powerline",
+          "powerline_symbol": "\uE0C6",
+          "invert_powerline": false,
+          "foreground": "#ffffff",
+          "background": "#9F33FF",
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": {
+            "display_user": true,
+            "display_host": true,
+            "user_info_separator": "@"
+          }
+        },
+        {
+          "type": "dotnet",
+          "style": "powerline",
+          "powerline_symbol": "\uE0C0",
+          "foreground": "#FFFFFF",
+          "background": "#C1137B",
+          "properties": {
+            "prefix": " \uE77F "
+          }
+        },
+        {
+          "type": "node",
+          "style": "powerline",
+          "powerline_symbol": "\uE0C0",
+          "foreground": "#ffffff",
+          "background": "#E92887",
+          "properties": {
+            "prefix": " \uE718 "
+          }
+        },
+
+        {
+          "type": "exit",
+          "style": "plain",
+          "powerline_symbol": "\uE0B0",
+          "invert_powerline": false,
+          "foreground": "#ffffff",
+          "background": "",
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": {
+            "postfix": "\u003c#FF23FF\u003e] \u003c/\u003e",
+            "prefix": "\u003c#FF23FF\u003e[x\u003c/\u003e"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "root",
+          "style": "plain",
+          "foreground": "#B5B50D",
+          "properties": {
+            "prefix": "\u003c#FF23FF\u003e[\u003c/\u003e",
+            "postfix": "\u003c#FF23FF\u003e] \u003c/\u003e"
+          }
+        },
+
+        {
+          "type": "spotify",
+          "style": "diamond",
+          "foreground": "#ffffff",
+          "background": "#1BD760",
+          "leading_diamond": "\uE0B6",
+          "trailing_diamond": "\uE0B4"
+        },
+
+        {
+          "type": "time",
+          "style": "plain",
+          "foreground": "#007ACC",
+          "properties": {
+            "prefix": "\u003c#FF23FF\u003e[🕒\u003c/\u003e",
+            "postfix": "\u003c#FF23FF\u003e] \u003c/\u003e"
+          }
+        }
+      ]
+    },
+    {
+      "type": "newline",
+      "alignment": "",
+      "horizontal_offset": 0,
+      "vertical_offset": 0,
+      "segments": null
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "horizontal_offset": 0,
+      "vertical_offset": 0,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "properties": {
+            "prefix": "\u003c#FF23FF\u003e╰[\u003c/\u003e",
+            "text": ""
+          }
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "\uE0B8",
+          "invert_powerline": false,
+          "foreground": "#ffffff",
+          "background": "#7F00FF",
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "properties": {
+            "style": "folder",
+            "prefix": " 📁"
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#ffffff",
+          "background": "#9F33FF",
+          "properties": {
+            "display_stash_count": true,
+            "display_upstream_icon": true
+          }
+        }
+      ]
+    }
+  ]
+}

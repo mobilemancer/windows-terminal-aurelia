@@ -42,5 +42,10 @@ Without the Retro Terminal effect:
 
 [img2]: https://raw.githubusercontent.com/mobilemancer/windows-terminal-aurelia/master/purple-man.jpg "Without Retro Terminal Effect"
 
-To use it, install Oh my Posh 3, then copy the theme file, purple-man.json from the posh-theme folder, then edit your PowerShell profile and set the theme there.
-To make all the glyphs work as intended, you need to swith tot a font that supports Power Line glyphs. I recommend Caskaydia Cove, a Cascadia Code version patched with the required glyphs. You can find it on NerdFonts.com or via direct link here: <https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip>
+To use the Posh Theme
+   1. install Oh my Posh 3;
+   2. copy the theme file, purple-man.json, from the posh-theme folder;
+   3. edit your PowerShell profile and set the theme there.
+   
+To make all the glyphs work as intended, you need to switch to a font that supports Power Line glyphs. 
+I recommend Caskaydia Cove, a Cascadia Code version patched with the required glyphs. You can find it on NerdFonts.com or via direct link here: <https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip>

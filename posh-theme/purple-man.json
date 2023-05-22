@@ -115,14 +115,8 @@
       ]
     },
     {
-      "type": "newline",
-      "alignment": "",
-      "horizontal_offset": 0,
-      "vertical_offset": 0,
-      "segments": null
-    },
-    {
       "type": "prompt",
+      "newline": true,
       "alignment": "left",
       "horizontal_offset": 0,
       "vertical_offset": 0,
